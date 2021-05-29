@@ -5,7 +5,7 @@ First go project KKona
 
 Simply `go run .` and type a math expression.
 
-Only the first 3 words are taken into consideration.
+Only the first 3 words are taken into consideration, and things like `1+1` will not work, they must be seperated by spaces like so: `1 + 1`.
 
 Valid operations:
   - `+`
