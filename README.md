@@ -12,3 +12,9 @@ Valid operations:
   - `-`
   - `*`
   - `/`
+
+## Things I used
+
+I used goroutines, functions, a custom seperate package, built in packages, errors, channels, switches, structs, controll flow, receiver types, and more.
+
+100% got what I wanted out of this.
